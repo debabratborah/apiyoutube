@@ -1,8 +1,7 @@
-googleapiclient
+streamlit==1.26.0
+mysql-connector-python
 pandas
-pymysql
-sqlalchemy
-datetime
-re
-streamlit
+google-api-python-client==2.39.0
+pillow==9.2.0
+
 
