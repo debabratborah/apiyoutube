@@ -1,8 +1,10 @@
-streamlit==1.26.0
+streamlit==1.39.0
 mysql-connector-python
 pandas
-google-api-python-client==2.39.0
-pillow==9.0.0
+google-api-python-client
+google-auth
+pillow
+
 
 
 
