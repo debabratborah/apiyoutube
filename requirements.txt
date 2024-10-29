@@ -1,7 +1,8 @@
-scikit-learn  
-mysql-connector-python
-streamlit==1.26.0
-mysql-connector-python
+googleapiclient
 pandas
-google-api-python-client
+pymysql
+sqlalchemy
+datetime
+re
+streamlit
 
